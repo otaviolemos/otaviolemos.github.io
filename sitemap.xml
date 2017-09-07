@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://klerisson.github.io/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/umap2017.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/saner-2017.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/JIDM.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/ictai1v2.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/ictai2.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/mabrec.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/canadian-ai-2016.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/2015_kdmile_felicio_et_al.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/2015_vem_delfim_et_al.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/csmr2011.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/sbes2010.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/pcoda2008.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://klerisson.github.io/papers/azevedo2006.pdf</loc>
+  <priority>0.80</priority>
+</url>
+</urlset>
